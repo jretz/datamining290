@@ -1,0 +1,2 @@
+# What I hope to get out of this course:
+# I am really excited to take this course because it will not only improve my data analysis skills but also build my capabilites in Python.  More specifically, I am excited to learn about decision trees, neural networks, density and clustering in data anlysis.  By taking this class, I am hoping to use technology to harness my statistics and economic background, and begin to use big data for public policy. When I graduate in May, I would like to work in data analytics and feel that this course is a great step in that direction.  
